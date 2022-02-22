@@ -41,3 +41,6 @@
         grid-auto-rows: auto;
         gap: 3rem;
     }
+    section>header{
+        grid-column: span 12;
+    }
