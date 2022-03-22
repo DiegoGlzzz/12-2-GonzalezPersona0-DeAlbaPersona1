@@ -78,7 +78,7 @@ article>header>hgroup>h2{
     border-right: 1rem;
 }   
 footer{
-font-display: flex;
+display: flex;
 align-items: center;
 justify-content: space-between;
 padding-top: 4rem;
@@ -87,10 +87,7 @@ padding-left: 0rem;
 padding-right: 0rem;
 }
 
-#footer_blog div:nth-child(2){
+#footer_blog div:nth-child(1){
     font-size: 0.9rem;
 
 }
-
-
-   
