@@ -91,3 +91,9 @@ padding-right: 0rem;
     font-size: 0.9rem;
 
 }
+aside div image{
+    background-color: darkgoldenrod;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+
